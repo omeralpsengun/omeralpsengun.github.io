@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merhaba Dünya!
+title: Hello Everyone!
 ---
 
 Bu blog sayfasında yaptığım araştırmaları ve öğrendiklerimi paylaşacağım.
